@@ -28,7 +28,7 @@
             <img src="https://github.com/SeojinSeojin.png?size=100"/>
         </td>
         <td align="center">
-            <img src="https://github.com/todayiswindy.png?size=100"/>
+            <img src="https://github.com/todayiswindy.png" width="100" height="100"/>
         </td>
     </tr>
   </table>
