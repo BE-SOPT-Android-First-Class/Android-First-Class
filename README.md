@@ -13,22 +13,22 @@
 </br>
 <h2 align="center">Members</h2>
   <table align="center">
-    <th align="center"> 이현우 </th>
-    <th align="center"> 이원중 </th>
-    <th align="center"> 김서진 </th>
-    <th align="center"> 김지연 </th>
+    <th align="center"> <a href="https://github.com/BE-SOPT-Android-First-Class/HyunWooRoid">이현우</a> </th>
+    <th align="center"> <a href="https://github.com/BE-SOPT-Android-First-Class/WonJoongRoid">이원중</a> </th>
+    <th align="center"> <a href="https://github.com/BE-SOPT-Android-First-Class/Seojinroid">김서진</a> </th>
+    <th align="center"> <a href="https://github.com/BE-SOPT-Android-First-Class/Jiyeonroid">김지연</a> </th>
     <tr>
         <td align="center">
-            <img src="https://github.com/l2hyunwoo.png?size=100"/>
+            <a href="https://github.com/l2hyunwoo"><img src="https://github.com/l2hyunwoo.png" width="250"/></a>
         </td>
         <td align="center">
-            <img src="https://github.com/wonjoonglee.png?size=100"/>
+            <a href="https://github.com/WonJoongLee"><img src="https://github.com/wonjoonglee.png" width="250"/></a>
         </td>
         <td align="center">
-            <img src="https://github.com/SeojinSeojin.png?size=100"/>
+            <a href="https://github.com/SeojinSeojin"><img src="https://github.com/SeojinSeojin.png" width="250"/></a>
         </td>
         <td align="center">
-            <img src="https://github.com/todayiswindy.png" width="100" height="100"/>
+            <a href="https://github.com/todayiswindy"><img src="https://github.com/todayiswindy.png" width="250"/></a>
         </td>
     </tr>
   </table>
